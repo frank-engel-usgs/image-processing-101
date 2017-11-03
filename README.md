@@ -2,6 +2,8 @@
 
 Code examples on how to do things with OpenCV on [iPython Notebook](http://ipython.org/notebook.html).
 
+This is a cloned version of a great iPython Notebook created by Sher Minn Chong. Go see her original post at the [Code Words](https://codewords.recurse.com/issues/six/image-processing-101) website. 
+
 ## Installation
 
 These instructions are for Mac OSX. For installation on other systems, feel free to use your own choice of a virtual environment for Python. OpenCV for Python requires a local installation of OpenCV on your machine, from which we will create symlinks to in your virtual environment.
